@@ -1,5 +1,6 @@
 # web-technology-mini-project
 
+<<<<<<< HEAD
 We made a web portal where farmers can sell their produce and consumers can directly buy them from farmers. There are different features like add to cart, search and add stock are available.
 
 <p align="center">
@@ -13,6 +14,9 @@ We made a web portal where farmers can sell their produce and consumers can dire
 Technology Stack -
 
 PHP
+=======
+
+>>>>>>> 866985c89f54701806c95e2559bd522fcb003f48
 
 HTML5
 
@@ -20,4 +24,8 @@ CSS3
 
 Bootstrap
 
+<<<<<<< HEAD
 Javascript
+=======
+
+>>>>>>> 866985c89f54701806c95e2559bd522fcb003f48
