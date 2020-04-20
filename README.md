@@ -4,7 +4,7 @@ We made a web portal where farmers can sell their produce and consumers can dire
 
 <p align="center">
 <img src="images/img1.png" width="400" height="400"><br>
-<img src="images/image2.png" width="400" height="400"><br>
+<img src="images/img2.png" width="400" height="400"><br>
 <img src="images/img3.png" width="400" height="400"><br>
 <img src="images/img4.png" width="400" height="400"><br>
 <img src="images/img5.png" width="400" height="400"><br>
